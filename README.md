@@ -6,4 +6,7 @@ Simple boilerplate for C programs.
 
 Clone, fork, download, whatever.
 
-The run `make`.
+Then run:
+- `make` to build main.c
+- `make run` to run `./main`
+- `make br` to build and run in one step.
